@@ -30,7 +30,7 @@ To initialize your local repository using the AospExtended trees, use a
 command like this:
 
 ```bash
-  repo init -u git://github.com/AospExtended/manifest.git -b 8.1.x
+  repo init -u https://github.com/drshaggy/manifest.git -b 8.1.x
 ```
   
 Then to sync up:
