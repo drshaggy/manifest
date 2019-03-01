@@ -187,8 +187,7 @@
   <project path="external/ImageMagick" name="platform/external/ImageMagick" groups="pdk" />
   <project path="external/ims" name="platform/external/ims" groups="pdk" />
   <project path="external/iproute2" name="platform/external/iproute2" groups="pdk" />
-  <project path="external/ipsec-tools" name="platform/external/ipsec-tools" groups="pdk" />
-https://github.com/AospExtended?language=&page=2&q=packages&type=&utf8=%E2%9C%93  <project path="external/iptables" name="platform/external/iptables" groups="pdk" />
+  <project path="external/iptables" name="platform/external/iptables" groups="pdk" />
   <project path="external/iputils" name="platform/external/iputils" groups="pdk" />
   <project path="external/iw" name="platform/external/iw" groups="pdk" />
   <project path="external/jacoco" name="platform/external/jacoco" groups="pdk" />
